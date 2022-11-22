@@ -1,0 +1,62 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nomeDoCliente": "Caneta Bic Preta",
+            "cpf": "009784568-88",
+            "email": "teste@teste.com.br",
+            "sexo": "M",
+            "estadoCivil": 1,
+            "dataNascimento": "Caneta Bic Preta",
+            "rg": "48759842-2",
+            "cep": "04785-247",
+            "estado": "São Paulo",
+            "cidade": "Santana de Parnaiba",
+            "endereco": "rua teste",
+            "bairro": "centro",
+            "numero": "478",
+            "telefone": "4875-4558",
+            "celular": "94875-4558",
+            "observacao": "teste"
+        },
+        {
+            "id": 2,
+            "nomeDoCliente": "Caneta Bic Preta",
+            "cpf": "009784568-88",
+            "email": "teste@teste.com.br",
+            "sexo": "M",
+            "estadoCivil": 1,
+            "dataNascimento": "Caneta Bic Preta",
+            "rg": "48759842-2",
+            "cep": "04785-247",
+            "estado": "São Paulo",
+            "cidade": "Santana de Parnaiba",
+            "endereco": "rua teste",
+            "bairro": "centro",
+            "numero": "478",
+            "telefone": "4875-4558",
+            "celular": "94875-4558",
+            "observacao": "teste"
+        },
+        {
+            "id": 3,
+            "nomeDoCliente": "Caneta Bic Preta",
+            "cpf": "009784568-88",
+            "email": "teste@teste.com.br",
+            "sexo": "M",
+            "estadoCivil": 1,
+            "dataNascimento": "Caneta Bic Preta",
+            "rg": "48759842-2",
+            "cep": "04785-247",
+            "estado": "São Paulo",
+            "cidade": "Santana de Parnaiba",
+            "endereco": "rua teste",
+            "bairro": "centro",
+            "numero": "478",
+            "telefone": "4875-4558",
+            "celular": "94875-4558",
+            "observacao": "teste"
+        }
+
+    ]
+}
