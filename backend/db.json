@@ -1,61 +1,109 @@
 {
-    "products": [
+    "cursos": [
         {
             "id": 1,
-            "nomeDoCliente": "Caneta Bic Preta",
-            "cpf": "009784568-88",
-            "email": "teste@teste.com.br",
-            "sexo": "M",
-            "estadoCivil": 1,
-            "dataNascimento": "Caneta Bic Preta",
-            "rg": "48759842-2",
-            "cep": "04785-247",
-            "estado": "São Paulo",
-            "cidade": "Santana de Parnaiba",
-            "endereco": "rua teste",
-            "bairro": "centro",
-            "numero": "478",
-            "telefone": "4875-4558",
-            "celular": "94875-4558",
-            "observacao": "teste"
+            "nome": "Angular",
+            "curso": "Angular",
+            "plataforma": "Alura",
+            "duracao": 90
         },
         {
             "id": 2,
-            "nomeDoCliente": "Caneta Bic Preta",
-            "cpf": "009784568-88",
-            "email": "teste@teste.com.br",
-            "sexo": "M",
-            "estadoCivil": 1,
-            "dataNascimento": "Caneta Bic Preta",
-            "rg": "48759842-2",
-            "cep": "04785-247",
-            "estado": "São Paulo",
-            "cidade": "Santana de Parnaiba",
-            "endereco": "rua teste",
-            "bairro": "centro",
-            "numero": "478",
-            "telefone": "4875-4558",
-            "celular": "94875-4558",
-            "observacao": "teste"
+            "nome": "Python",
+            "curso": "Python",
+            "plataforma": "Alura",
+            "duracao": 130
         },
         {
             "id": 3,
-            "nomeDoCliente": "Caneta Bic Preta",
-            "cpf": "009784568-88",
-            "email": "teste@teste.com.br",
-            "sexo": "M",
-            "estadoCivil": 1,
-            "dataNascimento": "Caneta Bic Preta",
-            "rg": "48759842-2",
-            "cep": "04785-247",
-            "estado": "São Paulo",
-            "cidade": "Santana de Parnaiba",
-            "endereco": "rua teste",
-            "bairro": "centro",
-            "numero": "478",
-            "telefone": "4875-4558",
-            "celular": "94875-4558",
-            "observacao": "teste"
+            "nome": "SQL Server",
+            "curso": "SQL Server",
+            "plataforma": "Udemy",
+            "duracao": 70
+        },
+        {
+            "id": 4,
+            "nome": "Data Science",
+            "curso": "Data Science",
+            "plataforma": "Alura",
+            "duracao": 130
+        },
+        {
+            "id": 5,
+            "nome": "Data Science",
+            "curso": "Data Science",
+            "plataforma": "Alura",
+            "duracao": 130
+        },
+        {
+            "id": 6,
+            "nome": "Digital e Agile Thinking",
+            "curso": "Digital e Agile Thinking",
+            "plataforma": "Alura",
+            "duracao": 110
+        },
+        {
+            "id": 7,
+            "nome": "Power BI",
+            "curso": "Power BI",
+            "plataforma": "Alura",
+            "duracao": 50
+        },
+        {
+            "id": 8,
+            "nome": "Business Agility",
+            "curso": "Business Agility",
+            "plataforma": "Alura",
+            "duracao": 60
+        },
+        {
+            "id": 9,
+            "nome": "C#",
+            "curso": "C#",
+            "plataforma": "Alura",
+            "duracao": 90
+        },
+        {
+            "id": 10,
+            "nome": "Django",
+            "curso": "Django",
+            "plataforma": "Alura",
+            "duracao": 120
+        },
+        {
+            "id": 11,
+            "nome": "Bootstrap",
+            "curso": "Bootstrap",
+            "plataforma": "Alura",
+            "duracao": 80
+        },
+        {
+            "id": 12,
+            "nome": "TypeScript",
+            "curso": "TypeScript",
+            "plataforma": "Alura",
+            "duracao": 80
+        },
+        {
+            "id": 13,
+            "nome": "MySQL",
+            "curso": "MySQL",
+            "plataforma": "Alura",
+            "duracao": 70
+        },
+        {
+            "id": 14,
+            "nome": "CSS",
+            "curso": "CSS",
+            "plataforma": "Alura",
+            "duracao": 60
+        },
+        {
+            "id": 15,
+            "nome": "ASP.NET",
+            "curso": "ASP.NET",
+            "plataforma": "Alura",
+            "duracao": 110
         }
 
     ]
